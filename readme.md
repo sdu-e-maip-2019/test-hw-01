@@ -27,8 +27,10 @@ To solve this exercise, do the following.
 * Push the changes back to the assignment repository on github.
   * Right click in the "Current Folder" part of the workspace
   * Select "Source Control"
-  * Push
-
+  * Select "Push"
+* Check that the solved assignment has been uploaded to github
+  * Open the assignment repository on github
+  * Check that your changes are visible on the site
 
 
 
