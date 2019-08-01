@@ -19,3 +19,16 @@ To solve this exercise, do the following.
   * Fix the failed tests by modifying the following files
     * add_numbers.m
     * subtract_numbers.m
+* Commit the changed files to git
+  * Right click in the "Current Folder" part of the workspace
+  * Select "Source Control"
+  * Select "View and commit changes"
+  * Select the files that should be committed and write a commit message about what has been changed.
+* Push the changes back to the assignment repository on github.
+  * Right click in the "Current Folder" part of the workspace
+  * Select "Source Control"
+  * Push
+
+
+
+
