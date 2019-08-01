@@ -31,7 +31,7 @@ end
 
 function test05(testCase)
     actual_value = squareroot(2, 10);
-    expected_value = sqrt(2)+1;
+    expected_value = sqrt(2);
     testCase.verifyEqual(actual_value, expected_value, ...
         'RelTol', 0.000001);
 end
