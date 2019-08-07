@@ -2,6 +2,8 @@
 
 To solve this exercise, do the following.
 
+* Clone the repository using a git client (I recommend to use git kraken https://www.gitkraken.com)
+
 * Get access to the files
   * Use git bash (on windows)
   * Open matlab
